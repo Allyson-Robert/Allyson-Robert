@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 Apparently I host LaTeX templates.
+I have also been invited three years in a row to host a LaTeX workshop at Hasselt University. 
+You can find the course material [here](https://allyson-robert.github.io/filii-latex/)
+
 Here is  handy dandy table showing the various templates and their use.
 
 | Name               | Description                                                                                                                   |

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is mostly a list of a few passion projects I hope will be useful for others.
+I use GitHub for passion projects that I hope will be useful for others, for those interested in what I do, you can find my [LinkedIn profile](https://www.linkedin.com/in/allysonrobert/).
 I am working on a GUI/framwork to manage scientific research data and custom plotting. This will be published here in the coming months as I am still working on the final refactor and some examples.
 
 But aparently, I mainly host LaTeX templates.

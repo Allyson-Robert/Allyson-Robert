@@ -2,6 +2,11 @@
 
 I use GitHub for passion projects that I hope will be useful for others, for those interested in what I do, you can find my [LinkedIn profile](https://www.linkedin.com/in/allysonrobert/).
 I am working on a GUI/framwork to manage scientific research data and custom plotting. This will be published here in the coming months as I am still working on the final refactor and some examples.
+Here's an overview of some of my repositories
+| Name               | Description                                                                                                                   |
+|--------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| [SpaceTime Globe](https://github.com/Allyson-Robert/SpaceTimeGlobe)  | 3D CAD Design and STEP files to 3D print a SpaceTime Globe meant to teach special relativity.      |
+
 
 But aparently, I mainly host LaTeX templates.
 I have also been invited three years in a row to host a LaTeX workshop at Hasselt University. 

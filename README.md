@@ -10,7 +10,7 @@ If you’re curious about scientific tooling, extensible GUIs, or PyQt-based wor
 | Repository                                                                                             | Description                                                                                                          |
 | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- |
 | **[X-LAB Plotting Manager](https://github.com/Allyson-Robert/X-LAB_Plotting_Manager)**                 | The main PyQt5 GUI, dataset manager, threading logic, and plotting orchestration.                                    |
-| **[X-LAB Plotting Example Implementations](https://github.com/Allyson-Robert/X-LAB_Plotting_Example)** | A minimal but complete example showing how to implement custom data types, processors, plotters, and device workers. |
+| **[X-LAB Plotting Example Implementations](https://github.com/Allyson-Robert/X-LAB_Plotting_Implementations)** | A minimal but complete example showing how to implement custom data types, processors, plotters, and device workers. |
 
 ### Open Source Hardware Projects
 I like to tinker, and even more I love to share what I create. Here are the projects I've shared so far.

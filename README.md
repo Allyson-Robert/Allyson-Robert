@@ -1,14 +1,25 @@
 ### Hi there 👋
 
 I use GitHub for passion projects that I hope will be useful for others, for those interested in what I do, you can find my [LinkedIn profile](https://www.linkedin.com/in/allysonrobert/).
-I am working on a GUI/framwork to manage scientific research data and custom plotting. This will be published here in the coming months as I am still working on the final refactor and some examples.
-Here's an overview of some of my repositories
+
+### 🔬 New Project: X-LAB Plotting Framework & GUI
+
+I’ve recently published the first public version of my **X-LAB Plotting Framework** — a modular system for loading, processing, and visualising experimental data with custom device-specific plotters.
+If you’re curious about scientific tooling, extensible GUIs, or PyQt-based workflows, you can now find the project here:
+
+| Repository                                                                                             | Description                                                                                                          |
+| ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- |
+| **[X-LAB Plotting Manager](https://github.com/Allyson-Robert/X-LAB_Plotting_Manager)**                 | The main PyQt5 GUI, dataset manager, threading logic, and plotting orchestration.                                    |
+| **[X-LAB Plotting Example Implementations](https://github.com/Allyson-Robert/X-LAB_Plotting_Example)** | A minimal but complete example showing how to implement custom data types, processors, plotters, and device workers. |
+
+### Open Source Hardware Projects
+I like to tinker, and even more I love to share what I create. Here are the projects I've shared so far.
 | Name               | Description                                                                                                                   |
 |--------------------|-------------------------------------------------------------------------------------------------------------------------------|
 | [SpaceTime Globe](https://github.com/Allyson-Robert/SpaceTimeGlobe)  | 3D CAD Design and STEP files to 3D print a SpaceTime Globe meant to teach special relativity.      |
 
 
-But aparently, I mainly host LaTeX templates.
+But aparently, I also host a bunch of LaTeX templates.
 I have also been invited three years in a row to host a LaTeX workshop at Hasselt University. 
 You can find the course material [here](https://allyson-robert.github.io/filii-latex/)
 
